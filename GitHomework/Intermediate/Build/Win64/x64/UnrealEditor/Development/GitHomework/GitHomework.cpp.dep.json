@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\trendingpc\\desktop\\githomework\\githomework\\source\\githomework\\githomework.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\trendingpc\\desktop\\githomework\\githomework\\intermediate\\build\\win64\\x64\\githomeworkeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\trendingpc\\desktop\\githomework\\githomework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\githomework\\definitions.githomework.h",
+            "c:\\users\\trendingpc\\desktop\\githomework\\githomework\\source\\githomework\\githomework.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
